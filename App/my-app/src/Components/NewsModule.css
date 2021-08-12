@@ -1,0 +1,17 @@
+.content {
+    grid-area: c;
+    background-color: #282c34;
+    color: white;
+}
+
+.main-text {
+    margin: 7px 7px 7px; /* Отступы вокруг картинки */
+}
+
+.button{
+    border-bottom-left-radius: 5px;
+}
+
+.input{
+    weight:300px ;
+}

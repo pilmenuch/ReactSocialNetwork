@@ -1,0 +1,9 @@
+.size{
+    width: 800px;
+    height: 600px;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }

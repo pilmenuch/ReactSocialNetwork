@@ -1,0 +1,16 @@
+.content {
+    grid-area: c;
+    background-color: #282c34;
+    color: white;
+
+}
+
+
+.main-text {
+    margin: 7px 7px 7px; /* Отступы вокруг картинки */
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
